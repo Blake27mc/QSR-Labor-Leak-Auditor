@@ -6,6 +6,15 @@ QSR labor cost auditor with daily tracking, mid-week overspend alerts, and sched
 
 QSR Labor Leak Auditor is a skill designed for restaurant and franchise operators to catch labor cost drift before payroll closes. It helps monitor daily labor as a percentage of sales, identify overspend trends mid-week, and flag common issues such as scheduling drift, clock padding, and overtime risk.
 
+## Technical Infrastructure
+
+Built and deployed within the McPherson AI operating environment:
+
+- AI-assisted development workflow
+- DigitalOcean VPS hosting
+- Tailscale private mesh networking
+- Fail2Ban intrusion prevention
+
 ## Intended Use
 
 This skill is intended for internal use by operators within their own business workflows.
